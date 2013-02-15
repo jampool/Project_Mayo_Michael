@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1360287699 source:c:\users\able valued client\desktop\project_mayo_nolasco\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Project.h"
+
+1360288728 source:c:\users\able valued client\desktop\project_mayo_nolasco\project.cpp
+	"Project.h"
+	<iostream>
+
+1360288695 c:\users\able valued client\desktop\project_mayo_nolasco\project.h
+
+1360644200 source:c:\users\daniel\desktop\programs_nolasco\project_mayo_nolasco\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1360597571 c:\users\daniel\desktop\programs_nolasco\project_mayo_nolasco\project.h
+
+1360644477 source:c:\users\daniel\desktop\programs_nolasco\project_mayo_nolasco\project.cpp
+	"Project.h"
+	<iostream>
+	<Math.h>
+	<cstring>
+
